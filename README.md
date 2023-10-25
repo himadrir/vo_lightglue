@@ -7,12 +7,15 @@ The code works on KITTI dataset using image from 1 camera. For feature matching 
 2. tqdm
 3. torch >= 1.9.0
 
-'@inproceedings{lindenberger2023lightglue,
+```
+@inproceedings{lindenberger2023lightglue,
   author    = {Philipp Lindenberger and
                Paul-Edouard Sarlin and
                Marc Pollefeys},
   title     = {{LightGlue: Local Feature Matching at Light Speed}},
   booktitle = {ICCV},
   year      = {2023}
-}' 
+}
+
+```
 
